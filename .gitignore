@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# json-server runtime data (generated from server/db.seed.json)
+server/db.json
