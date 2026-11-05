@@ -13,6 +13,37 @@ A React Native (Expo) take-home app. Users can log in, search for flights, keep 
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <th>Home: search &amp; recent searches</th>
+    <th>Favorites</th>
+    <th>Profile</th>
+    <th>More</th>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/home.jpeg" alt="Home screen with the flight search form (TIA to FCO, 12–15 Nov) and a list of recent searches" width="200" /></td>
+    <td><img src="assets/screenshots/favorites.jpeg" alt="Favorites screen listing two saved flights with status badges, prices and Remove buttons" width="200" /></td>
+    <td><img src="assets/screenshots/profile.jpeg" alt="Profile screen with user info, favorites and recent-search counts, and dark-mode settings" width="200" /></td>
+    <td><img src="assets/screenshots/more.jpeg" alt="More screen with Settings, Help &amp; support, About and Contact us entries" width="200" /></td>
+  </tr>
+  <tr>
+    <td>Search form with origin/destination swap, departure and return dates, and recent searches (tap one to prefill).</td>
+    <td>Saved flights with status (Scheduled / Delayed), price and remove.</td>
+    <td>Account details, stats, dark-mode toggle and "Use system theme".</td>
+    <td>Settings, Help &amp; support, About and Contact us sub-pages.</td>
+  </tr>
+</table>
+
+## Screen recording
+
+A walkthrough of the app running on a device.
+
+▶️ **[Watch the screen recording](assets/screenshots/screenrecord.mp4)** (MP4, ~6 MB)
+
+---
+
 ## Getting started
 
 ### Prerequisites
